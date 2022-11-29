@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/padmin/Documents/Projects/quick_labeling/tcp_client/tcp_client.cpp
+arpa/inet.h
+-
+iostream
+-
+netdb.h
+-
+stdio.h
+-
+stdlib.h
+-
+string
+-
+strings.h
+-
+cstring
+-
+sys/socket.h
+-
+unistd.h
+-
+chrono
+-
+semaphore.h
+-
+sys/stat.h
+-
+sys/ipc.h
+-
+sys/shm.h
+-
+fcntl.h
+-
+

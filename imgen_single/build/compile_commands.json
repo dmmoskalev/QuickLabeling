@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/padmin/Documents/Projects/quick_labeling/imgen_single/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++   -g -Werror -Wall -std=c++14 -o CMakeFiles/simgen.dir/simgen.cpp.o -c /home/padmin/Documents/Projects/quick_labeling/imgen_single/simgen.cpp",
+  "file": "/home/padmin/Documents/Projects/quick_labeling/imgen_single/simgen.cpp"
+}
+]

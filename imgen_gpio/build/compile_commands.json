@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/padmin/Documents/Projects/quick_labeling/imgen_gpio/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++   -g -Werror -Wall -std=c++14 -o CMakeFiles/imgen.dir/imgen.cpp.o -c /home/padmin/Documents/Projects/quick_labeling/imgen_gpio/imgen.cpp",
+  "file": "/home/padmin/Documents/Projects/quick_labeling/imgen_gpio/imgen.cpp"
+}
+]

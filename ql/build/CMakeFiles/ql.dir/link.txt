@@ -1,0 +1,1 @@
+/usr/bin/aarch64-linux-gnu-g++ -g CMakeFiles/ql.dir/ql.cpp.o -o ql  -Wl,-rpath,/usr/local/lib/aarch64-linux-gnu /usr/local/lib/aarch64-linux-gnu/libopencv_core.so /usr/local/lib/aarch64-linux-gnu/libopencv_imgcodecs.so /usr/local/lib/aarch64-linux-gnu/libopencv_imgproc.so.4.6.0 /usr/local/lib/aarch64-linux-gnu/libopencv_highgui.so.4.6.0 /lib/aarch64-linux-gnu/libpthread.so.0 

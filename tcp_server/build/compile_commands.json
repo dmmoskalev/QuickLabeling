@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/padmin/Documents/Projects/quick_labeling/tcp_server/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++   -g -Werror -Wall -lpthread -std=c++14 -o CMakeFiles/tcp_server.dir/tcp_server.cpp.o -c /home/padmin/Documents/Projects/quick_labeling/tcp_server/tcp_server.cpp",
+  "file": "/home/padmin/Documents/Projects/quick_labeling/tcp_server/tcp_server.cpp"
+}
+]

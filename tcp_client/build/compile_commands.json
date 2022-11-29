@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/padmin/Documents/Projects/quick_labeling/tcp_client/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++   -g -Werror -Wall -lpthread -std=c++14 -o CMakeFiles/tcp_client.dir/tcp_client.cpp.o -c /home/padmin/Documents/Projects/quick_labeling/tcp_client/tcp_client.cpp",
+  "file": "/home/padmin/Documents/Projects/quick_labeling/tcp_client/tcp_client.cpp"
+}
+]

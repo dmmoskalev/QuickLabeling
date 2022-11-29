@@ -1,0 +1,3 @@
+/home/padmin/Documents/Projects/quick_labeling/imgen_gpio/build/CMakeFiles/rebuild_cache.dir
+/home/padmin/Documents/Projects/quick_labeling/imgen_gpio/build/CMakeFiles/edit_cache.dir
+/home/padmin/Documents/Projects/quick_labeling/imgen_gpio/build/CMakeFiles/imgen.dir

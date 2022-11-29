@@ -1,0 +1,1 @@
+/usr/bin/aarch64-linux-gnu-g++ -g CMakeFiles/tcp_server.dir/tcp_server.cpp.o -o tcp_server  /lib/aarch64-linux-gnu/libpthread.so.0 

@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/padmin/Documents/Projects/quick_labeling/ql/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -I/usr/local/include/opencv4 -g -Werror -Wall -lpthread -std=c++14 -o CMakeFiles/ql.dir/ql.cpp.o -c /home/padmin/Documents/Projects/quick_labeling/ql/ql.cpp",
+  "file": "/home/padmin/Documents/Projects/quick_labeling/ql/ql.cpp"
+}
+]
